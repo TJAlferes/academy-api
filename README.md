@@ -1,2 +1,1 @@
-# academy-api
-API for Academy
+![academy-logo](https://user-images.githubusercontent.com/19824877/78464572-a99a3a00-76b0-11ea-8db8-de9b851d912b.png)
